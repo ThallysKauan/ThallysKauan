@@ -49,44 +49,44 @@ Estou sempre explorando novas ferramentas e tecnologias para aprimorar minhas ha
 <p align="left">
   <img
     height="180"
-    src="https://github-readme-stats-eight-nu-11.vercel.app/api/top-langs?username=AndersonMeloo&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br"
+    src="https://github-readme-stats-eight-nu-11.vercel.app/api/top-langs?username=ThallysKauan&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br"
   />
   <img
     height="180"
-    src="https://streak-stats.demolab.com?user=AndersonMeloo&theme=github-dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=ThallysKauan&theme=github-dark&hide_border=true"
   />
 </p>
 
 --
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonMeloo&layout=compact&theme=tokyonight&langs_count=9"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallysKauan&layout=compact&theme=tokyonight&langs_count=9"
 />
 
 --
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=AndersonMeloo&show_icons=true&theme=tokyonight"
+  src="https://github-readme-stats.vercel.app/api?username=ThallysKauan&show_icons=true&theme=tokyonight"
 />
 
 --
  <img 
-  src="https://streak-stats.demolab.com?user=AndersonMeloo&theme=tokyonight"
+  src="https://streak-stats.demolab.com?user=ThallysKauan&theme=tokyonight"
 />
 
 --
 <img 
-  src="https://github-profile-trophy.vercel.app/?username=AndersonMeloo&theme=tokyonight&row=1"
+  src="https://github-profile-trophy.vercel.app/?username=ThallysKauan&theme=tokyonight&row=1"
 />
 
 -- 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AndersonMeloo&theme=tokyo-night"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ThallysKauan&theme=tokyo-night"
 />
 
 --
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonMeloo&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonMeloo&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThallysKauan&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallysKauan&layout=compact&theme=tokyonight"/>
 </div>
