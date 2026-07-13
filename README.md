@@ -6,11 +6,11 @@ Desenvolvo aplicações modernas, responsivas e escaláveis, atuando tanto no Fr
 Estou sempre explorando novas ferramentas e tecnologias para aprimorar minhas habilidades. 👨‍💻
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/andersonrodriguesmelo" target="_blank">
+  <a href="https://www.linkedin.com/in/thallys-kauan-b6805a387/?skipRedirect=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="https://portfolio-anderson-nine.vercel.app" target="_blank">
+  <a href="https://portfolio-2-gules-tau.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
